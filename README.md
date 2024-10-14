@@ -29,8 +29,7 @@
 </p>
 <h3 align="left">Statistics:</h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maycods&show_icons=true&locale=en&layout=compact" alt="maycods" /></p>
-<h3 align="left">How to reach me:</h3> 
-maya.houacine1@gmail.com
+
 <!--- <p align="left">
 <a href="https://linkedin.com/in/here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="here" height="30" width="40" /></a>
 <a href="https://kaggle.com/here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="here" height="30" width="40" /></a>
