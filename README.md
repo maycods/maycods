@@ -1,5 +1,5 @@
 <h1 align="center"><code>Hello world</code>, I'm Maya</h1>
-<h3 align="center">An Phd student and engineer in Artificial Intelligence</h3>
+<h3 align="center">A Phd student and engineer in Artificial Intelligence</h3>
 
 <table   border-collapse:"collapse" width="200%" align="center" >
   <tr>
